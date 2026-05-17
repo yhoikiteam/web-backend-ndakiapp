@@ -1,7 +1,3 @@
-Berikut adalah versi `README.md` yang sudah dirapikan, dipersingkat tanpa mengurangi informasi esensial, serta ditata secara logis agar mudah dibaca di GitHub.
-
----
-
 ```markdown
 # 🏔️ NDAKI Backend System
 
